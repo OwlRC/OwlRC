@@ -10,12 +10,11 @@
 ┌──(OwlRC㉿kali)-[~]
 └─$ cat about.txt
 
-  Name     : Felipe Soares
+  Name     : Felipe Melo
   Role     : Cybersecurity Student → Red Team
   Degree   : B.S. Cybersecurity & Information Assurance @ WGU
   Focus    : Offensive Security | Physical Access | WiFi Hacking
-  Location : Cape Coral, FL 🇺🇸
-  Status   : Actively hunting SOC Analyst / Red Team roles
+  Status   : Actively hunting IT positions
 ```
 
 ---
