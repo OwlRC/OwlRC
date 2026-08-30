@@ -44,9 +44,9 @@ Activates and verifies a full **VPN → Tor → Internet** stack with live ✅ c
 $ stealthon
 ✅ Timezone set to: UTC
 ✅ Tor service is running
-✅ Tor listening on port 9050
-✅ VPN is active — 146.70.202.86
-✅ Tor routing working — 45.84.107.33
+✅ Tor listening on port 0000
+✅ VPN is active — 0.0.0.0
+✅ Tor routing working — 0.0.0.0
 ✅ Tor identity confirmed by torproject.org
 ✅ DNS resolving through Tor — location: NL
 ✅ Proxychains configured correctly
