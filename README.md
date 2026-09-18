@@ -104,7 +104,9 @@ WiFi Hacking · Nmap · Hashcat · Flipper Zero · Proxmark3 · DuckyScript · R
 [✅] Google IT Support Certificate
 [✅] StealthStack — VPN+Tor automation tool
 [✅] 47 TryHackMe rooms completed
+[✅] CompTIA A+
 [🔄] B.S. Cybersecurity @ WGU — in progress
+[🔄] CompTIA Network+ — in progress
 [🔄] CompTIA Security+ — in progress
 [⏳] PNPT — Practical Network Penetration Tester
 [⏳] eJPT — eLearnSecurity Junior Penetration Tester
